@@ -35,7 +35,7 @@ export default defineConfig({
       {
         text: "其他",
         items: [
-          { text: "服规与群规", link: "/guides/rule" }
+          { text: "服规与群规", link: "/guides/rule" },
           { text: "服务器内设施与建筑", link: "/other/building" },
           { text: "生电注意事项", link: "/other/redstone" }
         ],
@@ -43,7 +43,7 @@ export default defineConfig({
       {
         text: "FAQ",
         items: [
-          { text: "FAQ", link: "/faq/" },
+          { text: "FAQ", link: "/faq/" }
 
         ],
       },
