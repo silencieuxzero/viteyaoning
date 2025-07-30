@@ -1,10 +1,10 @@
 ---
 title: 注意事项
-description: 启动游戏前的准备工作
+description: 警惕地雷
 ---
 # 注意事项
 
-::: warning
+::: warning 警惕地雷
 本节内容会不定时修改，请以最新内容为准。具体内容解释请咨询服主
 :::
 

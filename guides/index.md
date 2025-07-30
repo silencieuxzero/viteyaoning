@@ -4,7 +4,7 @@ description: 启动游戏前的准备工作
 ---
 # 准备工作
 
-::: warning
+::: warning 工欲善其事必先利其器
 在开始游戏前，建议安装以下应用或mod以获得更好的游戏体验。请注意，本节内容包括以后的所有内容，除特别标注之外，__皆仅适用于Java版Minecraft__。
 :::
 
@@ -17,7 +17,6 @@ description: 启动游戏前的准备工作
 ## 游戏优化
 
 - 如果你的电脑配置不高，在运行Minecraft时常常感到卡顿，那么你可以考虑使用Fabric优化整合包：难以置信的优化 Fabulously Optimized（[点此前往MC百科](https://www.mcmod.cn/modpack/248.html)）
-- 如果你是一位生电玩家，那么你可以放心使用[投影打印机mod](https://www.mcmod.cn/class/8233.html)，这并不属于作弊行为（实际上管理都在使用）。
 - 如果你在进入服务器时遇到了一直处于加载状态的情况，可进行多次刷新或稍事等待，若仍无法进入可前往Q群内提问（但请注意提问态度）。
 - 推荐安装列表内mod以达到最佳游戏体验（[或点此下载作者制作的懒人包](https://wwmk.lanzoub.com/irI2R3260d4j)）：
 ::: details 点此展开列表
@@ -32,9 +31,16 @@ description: 启动游戏前的准备工作
 1. [[LDL]Lambd的动态光源 LambDynamicLights](https://www.mcmod.cn/class/2954.html)
 1. [[IMB]输入法冲突修复 IMBlocker](https://www.mcmod.cn/class/3358.html)
 :::
-::: info
+::: tip
 不想重新配置mod？理论上来说1.21任意版本皆可进入服务器，所以不必太过担心。
 :::
+
+## 配置游戏内皮肤
+::: info
+该段内容仅适用于离线玩家，正版玩家可跳过此段。
+:::
+- 由于离线玩家无法在多人游戏服务器中正常的显示自己的游戏皮肤，故推荐玩家安装Mod[万能皮肤补丁 CustomSkinLoader](https://www.mcmod.cn/class/883.html)（整合包内未安装该Mod，需离线玩家手动安装）。
+- 为保证游戏内皮肤能稳定显示，推荐玩家使用[LittleSkin](https://littleskin.cn)皮肤站进行第三方登录。
 
 ## 进入服务器
 - 为保证服务器安全，请前往Q群内获取服务器IP。请勿随意泄露IP！

@@ -48,6 +48,13 @@ export default defineConfig({
         ],
       },
       {
+        text: "药宁小故事",
+        items: [
+          { text: "系列1", link: "/yaoningstory/" },
+
+        ],
+      },
+      {
         text: "管理团队",
         items: [
           { text: "管理团队", link: "/team/" },
