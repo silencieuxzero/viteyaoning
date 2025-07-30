@@ -29,15 +29,15 @@ export default defineConfig({
         text: "游玩准备",
         items: [
           { text: "准备工作", link: "/guides/" },
-          { text: "注意事项", link: "/guides/warning/" },
-          { text: "服规", link: "/guides/rule/" },
+          { text: "注意事项", link: "/guides/warning" },
+          { text: "服规", link: "/guides/rule" }
         ],
       },
       {
         text: "其他",
         items: [
           { text: "服务器内设施与建筑", link: "/other/building" },
-          { text: "生电注意事项", link: "/other/redstone" },
+          { text: "生电注意事项", link: "/other/redstone" }
         ],
       },
       {

@@ -19,27 +19,32 @@ hero:
 
 features:
   - title: 流畅游戏
+    icon: 💻
     details: 采用Folia服务端，带给玩家极致流畅的游戏体验。
   - title: 兼容性强
+    icon: 🛠️
     details: 兼容1.21.x全版本，无需重新配置mod。
   - title: 社群友好
+    icon: 🔋
     details: 管理员长期在线，及时响应。
   - title: 限制性小
-    details: 允许使用部分作弊性mod。
+    icon: ⌨️
+    details: 对客户端mod不作过多限制。
 ---
 
-## 图片展示
+<!--## 图片展示
 
 <el-carousel type="card" height="24vw" indicator-position="none">
   <el-carousel-item v-for="item, k in previewSrcList" :key="item">
     <el-image preview-teleported :preview-src-list="previewSrcList" :src="item" :initial-index="k" />
   </el-carousel-item>
-</el-carousel>
+</el-carousel> -->
 
 ## 遇到问题？联系我们！
-
-QQ群：1048595823
-
+::: info 联系方式
+QQ群：1048595823<br>
+[联系管理团队](https://yaoning-wiki.netlify.app/team/)
+:::
 <script setup>
 // import { ElCarousel, ElCarouselItem, ElImage, ElImageViewer } from 'element-plus';
 
