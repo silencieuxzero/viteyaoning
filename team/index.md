@@ -70,6 +70,14 @@ const qq = [
     ]
   },
   {
+    avatar: '/bocchi.jpg',
+    name: 'bocchi',
+    title: '群波奇',
+    links: [
+
+    ]
+  },
+  {
     avatar: '/999.jpg',
     name: '三玖',
     title: '佳宝',
