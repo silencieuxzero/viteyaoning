@@ -14,7 +14,7 @@ hero:
       text: 支持药宁
       link: https://space.bilibili.com/2128068100?spm_id_from=333.337.search-card.all.click
   image:
-    src: /yaoning.png
+    src: /药宁.png
     alt: yaoning
 
 features:
