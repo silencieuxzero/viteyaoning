@@ -62,7 +62,7 @@ const coreMembers = [
 ]
 const qq = [
   {
-    avatar: '/888.jpg',
+    avatar: '/伊蕾娜.jpg',
     name: '天王',
     title: '四代目火影',
     links: [
