@@ -11,7 +11,7 @@ description: 启动游戏前的准备工作
 ## 启动器与java安装
 
 - Windows系统用户推荐使用PCL启动器（[点此前往爱发电](https://afdian.com/p/0164034c016c11ebafcb52540025c377)）
-- Linux发行版用户推荐使用HMCL启动器（[点此前往下载](https://hmcl.huangyuhui.net/)）或在[星火应用商店](https://www.spark-app.store/)内下载
+- Linux发行版用户推荐使用HMCL启动器（[点此前往下载](https://hmcl.huangyuhui.net/)）或在[星火应用商店](https://www.spark-app.store/)内下载其他适用于debian系linux的MC启动器。
 - [点此前往java下载页面](https://www.oracle.com/cn/java/technologies/downloads/)
 
 ## 游戏优化
