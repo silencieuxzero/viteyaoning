@@ -18,7 +18,7 @@ description: 启动游戏前的准备工作
 
 - 如果你的电脑配置不高，在运行Minecraft时常常感到卡顿，那么你可以考虑使用Fabric优化整合包：难以置信的优化 Fabulously Optimized（[点此前往MC百科](https://www.mcmod.cn/modpack/248.html)）
 - 如果你在进入服务器时遇到了一直处于加载状态的情况，可进行多次刷新或稍事等待，若仍无法进入可前往Q群内提问（但请注意提问态度）。
-- 推荐安装列表内mod以达到最佳游戏体验（[或点此下载作者制作的懒人包](https://wwmk.lanzoub.com/irI2R3260d4j)<Badge type="tip" text="^1.0" />）：
+- 推荐安装列表内mod以达到最佳游戏体验（[或点此下载作者制作的懒人包](https://wwmk.lanzoub.com/irI2R3260d4j)<Badge type="tip" text="^Fabric 1.21.1" />）：
 ::: details 点此展开列表
 1. [聊天头像 Chat Heads](https://www.mcmod.cn/class/4523.html)
 1. [录像回放 Replay Mod](https://www.mcmod.cn/class/1203.html)

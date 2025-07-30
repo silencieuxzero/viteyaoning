@@ -60,6 +60,96 @@ const coreMembers = [
     ]
   },
 ]
+const qq = [
+  {
+    avatar: '/888.jpg',
+    name: '天王',
+    title: '四代目火影',
+    links: [
+
+    ]
+  },
+  {
+    avatar: '/bocchi.jpg',
+    name: 'bocchi',
+    title: '群波奇',
+    links: [
+
+    ]
+  },
+  {
+    avatar: '/999.jpg',
+    name: '三玖',
+    title: '佳宝',
+    links: [
+
+    ]
+  },
+  {
+    avatar: '/白菜.jpg',
+    name: '白菜する',
+    title: '药政王',
+    links: [
+
+    ]
+  },
+  {
+    avatar: '/尘世.jpg',
+    name: '尘世乱游',
+    title: '试药员',
+    links: [
+
+    ]
+  },
+  {
+    avatar: '/枫.jpg',
+    name: '枫杺デス',
+    title: '群聊管理员',
+    links: [
+
+    ]
+  },
+  {
+    avatar: '/时鲤.jpg',
+    name: '时理',
+    title: '惨中人',
+    links: [
+
+    ]
+  },
+  {
+    avatar: '/AAA.jpg',
+    name: 'AAA异世界兽耳娘批发商',
+    title: '武神之刃',
+    links: [
+
+    ]
+  },
+  {
+    avatar: '/DD.jpg',
+    name: 'Dd～',
+    title: '药房老板',
+    links: [
+
+    ]
+  },
+  {
+    avatar: '/star.jpg',
+    name: '星河璀璨',
+    title: '星河不可及',
+    links: [
+
+    ]
+  },
+  {
+    avatar: '/zero.jpg',
+    name: '归零之歌',
+    title: '归零砭坊',
+    links: [
+
+    ]
+  },
+]
 const partners = [
   {
     avatar: '/vitepress-logo-large.svg',
@@ -78,6 +168,13 @@ const partners = [
     <template #lead>感谢他们的贡献与服务。</template>
   </VPTeamPageTitle>
   <VPTeamMembers size="medium" :members="coreMembers" />
+    <VPTeamPageSection>
+    <template #title>Q群管理员</template>
+    <template #lead>当代米切尔</template>
+    <template #members>
+      <VPTeamMembers size="small" :members="qq" />
+    </template>
+  </VPTeamPageSection>
   <VPTeamPageSection>
     <template #title>特别鸣谢</template>
     <template #lead>...</template>

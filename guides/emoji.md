@@ -2,6 +2,7 @@
 title: emoji展示页面
 description: 隐藏彩蛋？
 ---
+# emoji展示页面
 [如果你发现了这个页面，恭喜你，这是个彩蛋！](https://github.com/markdown-it/markdown-it-emoji/blob/master/lib/data/full.mjs)
 <!--
 用什么emoji从这里面找
