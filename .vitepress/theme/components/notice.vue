@@ -22,10 +22,10 @@ setTimeout(function () { visible.value = false }, 10000);
         </strong>
       </p>
       <p>QQ群：1048595823</p>
-      <img class="notice-img" src="/yaoningqunqq.jpg">
+      <img class="notice-img" src="/qqcode.jpg">
     </div>
     <div class="notice-footer">
-      <div class="notice-btn" @click="closetz">朕知道了</div>
+      <div class="notice-btn" @click="closetz">好耶！</div>
     </div>
   </div>
 </template>
