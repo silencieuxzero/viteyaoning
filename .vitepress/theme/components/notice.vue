@@ -14,15 +14,15 @@ setTimeout(function () { visible.value = false }, 10000);
   <div v-if="visible" class="notice">
     <h3 class="notice-title">网站公告</h3>
     <div class="notice-describe">
-      <p>本次更新：新公告样式</p>
+      <p>庆祝药宁粉丝破万！</p>
       <p class="notice-domain">
         <strong>
-          详细教程：<a href="https://vitepress.yiov.top/layout.html#%E5%85%AC%E5%91%8A"
-            target="_blank">vitepress.yiov.top</a>
+          点此前往B站：<a href="https://vitepress.yiov.top/layout.html#%E5%85%AC%E5%91%8A"
+            target="_blank">https://space.bilibili.com/2128068100?spm_id_from=333.337.0.0</a>
         </strong>
       </p>
-      <p>QQ 频道：******(无效二维码)</p>
-      <img class="notice-img" src="/qrcode.png">
+      <p>QQ群：1048595823</p>
+      <img class="notice-img" src="/yaoningqunqq.jpg">
     </div>
     <div class="notice-footer">
       <div class="notice-btn" @click="closetz">朕知道了</div>
