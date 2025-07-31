@@ -2,6 +2,7 @@
 import DefaultTheme from "vitepress/theme";
 import { nextTick, provide } from "vue";
 import { useData } from "vitepress";
+import backtotop from "./components/backtotop.vue";
 
 const { isDark } = useData();
 
@@ -43,6 +44,10 @@ provide("toggle-appearance", async ({ clientX: x, clientY: y }: MouseEvent) => {
 
 <template>
   <Layout>
+    <!-- doc-footer-before插槽 -->
+    <template #doc-footer-before>
+      <backtotop />
+    </template>
     <template #nav-bar-content-after>
       <a href="https://github.com/silencieuxzero/viteyaoning" style="padding: 0 12px">
       </a>
