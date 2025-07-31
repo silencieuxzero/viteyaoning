@@ -45,6 +45,17 @@ features:
 QQ群：1048595823<br>
 [联系管理团队](https://yaoning-wiki.netlify.app/team/)
 :::
+
+## UP主最新视频
+<iframe 
+style="width:80%; height=600; aspect-ratio:16/9; margin-top: 2em;" 
+src="//player.bilibili.com/player.html?isOutside=true&aid=114937250711702&bvid=BV1H28dzWEHU&cid=31363960703&p=1&autoplay=0" 
+frameborder="0" 
+scrolling="no"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+allowfullscreen>
+</iframe>
+
 <script setup>
 // import { ElCarousel, ElCarouselItem, ElImage, ElImageViewer } from 'element-plus';
 
