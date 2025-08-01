@@ -62,25 +62,25 @@ const coreMembers = [
 ]
 const qq = [
   {
-    avatar: '/伊蕾娜.jpg',
-    name: '天王',
-    title: '四代目火影',
+    avatar: '/荔枝.jpg',
+    name: '荔枝蛋糕',
+    title: '群聊管理员',
     links: [
 
     ]
   },
   {
-    avatar: '/bocchi.jpg',
-    name: 'bocchi',
-    title: '群波奇',
+    avatar: '/duyu.jpg',
+    name: '杜豫isih',
+    title: '群聊管理员',
     links: [
 
     ]
   },
   {
-    avatar: '/999.jpg',
-    name: '三玖',
-    title: '佳宝',
+    avatar: '/xiaokai.jpg',
+    name: '小凯不吃牛肉',
+    title: '不吃牛肉',
     links: [
 
     ]
@@ -104,6 +104,14 @@ const qq = [
   {
     avatar: '/枫.jpg',
     name: '枫杺デス',
+    title: '群聊管理员',
+    links: [
+
+    ]
+  },
+  {
+    avatar: '/xiangyi.jpg',
+    name: '相依为命',
     title: '群聊管理员',
     links: [
 
