@@ -17,7 +17,7 @@ setTimeout(function () { visible.value = false }, 10000);
       <p>庆祝药宁粉丝破万！</p>
       <p class="notice-domain">
         <strong>
-          点此前往B站：<a href="https://vitepress.yiov.top/layout.html#%E5%85%AC%E5%91%8A"
+          点此前往B站：<a href="https://space.bilibili.com/2128068100?spm_id_from=333.337.0.0"
             target="_blank">https://space.bilibili.com/2128068100?spm_id_from=333.337.0.0</a>
         </strong>
       </p>
