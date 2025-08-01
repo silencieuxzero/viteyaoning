@@ -170,7 +170,7 @@ const partners = [
   <VPTeamMembers size="medium" :members="coreMembers" />
     <VPTeamPageSection>
     <template #title>Q群管理员</template>
-    <template #lead>当代米切尔</template>
+    <template #lead>群抽象大师</template>
     <template #members>
       <VPTeamMembers size="small" :members="qq" />
     </template>
