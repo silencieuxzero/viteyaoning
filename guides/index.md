@@ -1,8 +1,8 @@
 ---
-title: 准备工作
+title: 准备工作与注意事项
 description: 启动游戏前的准备工作
 ---
-# 准备工作
+# 准备工作与注意事项
 
 ::: info 工欲善其事必先利其器
 在开始游戏前，建议安装以下应用或mod以获得更好的游戏体验。请注意，本节内容包括以后的所有内容，除特别标注之外，__皆仅适用于Java版Minecraft__。
@@ -51,3 +51,30 @@ description: 启动游戏前的准备工作
 ::: tip 自定义密码
 你可以把上面例子中的yao123456替换成任何英文字母或数字的组合。
 :::
+
+## 圈划领地
+::: tip 圈地运动
+如果你乱圈地，会有人来制裁你的哦~
+:::
+下面列举了一些常用的领地命令（你可以把命令中的<code>yaoning</code>换成任何英文字母或数字的组合）：
+- <code>/res create yaoning</code> 新建领地“yaoning”。
+- <code>/res remove yaoning</code> 删除领地“yaoning”。
+- <code>/res confirm</code> 确认删除领地。
+- <code>/res removeall</code> 删除全部领地。
+- <code>/res area list yaoning</code> 显示领地“yaoning”的全部区域 。
+- <code>/res area listall yaoning</code> 显示领地“yaoning”的所有区域以及他们的坐标。
+- <code>/res padd yaoning</code> 向领地添加玩家“yaoning”
+- <code>/res pdel yaoning</code> 向领地删除玩家“yaoning”
+- <code>/res ?</code> 显示领地命令帮助
+- <code>/res tp yaoning</code> 传送到领地“yaoning”
+- <code>/res give yaoning Executor_rain</code> 将领地“yaoning”赠予玩家“Executor_rain”
+
+## 注意事项
+- 本服务器为插件服，服务端为Folia，版本为1.21，考虑到兼容性，请尽量使用1.21版本的Minecraft进入服务器游玩（forge与fabric均可进入）。
+- 若无法进入游戏，请将报错、日志（可选）、Java版本以及所装载mod（可选）截图发送至群中寻求管理帮助，在寻求帮助的过程中请注意态度。
+- __不要在末地种蘑菇！__
+- 尽管该服务器并非生电服，但你仍可以在服务器中建造一些小型或中型装置。但如果你的装置在无人看管时可能会导致服务器卡顿，请一定不要忘记在下线时关闭机器或者找人帮忙关机。
+- 请尽量不要在主世界地表修建过于明显的铁路，这可能导致他人建筑空间被挤占，若无特殊需要，请尽量在地下修建铁路。
+- 不要随意拿走他人箱子里的物品，这可能会导致受害者的计划被打乱（如机器所需材料缺少等）。
+- 不要滥用地狱交通，这可能导致串门。
+- 本服务器禁止使用矿透。

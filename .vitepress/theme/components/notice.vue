@@ -14,7 +14,7 @@ setTimeout(function () { visible.value = false }, 10000);
   <div v-if="visible" class="notice">
     <h3 class="notice-title">网站公告</h3>
     <div class="notice-describe">
-      <p>庆祝药宁粉丝破2万！</p>
+      <p>祝贺药宁粉丝破3万！</p>
       <p class="notice-domain">
         <strong>
           点此前往B站：<a href="https://space.bilibili.com/2128068100?spm_id_from=333.337.0.0"

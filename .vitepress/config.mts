@@ -26,19 +26,20 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: "游玩准备",
+        text: "游玩须知",
         items: [
           { text: "准备工作", link: "/guides/" },
-          { text: "注意事项", link: "/guides/warning" }
+          { text: "注意事项", link: "/guides/" },
+          { text: "服规与群规", link: "/guides/rule" }
         ],
       },
       {
         text: "其他",
         items: [
-          { text: "服规与群规", link: "/guides/rule" },
           { text: "施工方案", link: "/other/railway" },
           { text: "服务器内设施与建筑", link: "/other/building" },
-          { text: "生电注意事项", link: "/other/redstone" }
+          { text: "生电注意事项", link: "/other/redstone" },
+//          { text: "粉丝群bot", link: "/other/bot" }
         ],
       },
       {
