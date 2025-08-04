@@ -49,7 +49,7 @@ QQ群：1048595823<br>
 ## UP主最新视频
 <iframe 
 style="width:80%; height=600; aspect-ratio:16/9; margin-top: 2em;" 
-src="//player.bilibili.com/player.html?isOutside=true&aid=114937250711702&bvid=BV1H28dzWEHU&cid=31363960703&p=1&autoplay=0" 
+src="//player.bilibili.com/player.html?isOutside=true&aid=114962718526010&bvid=BV1DVhgzGEme&cid=31454072304&p=1&autoplay=0" 
 frameborder="0" 
 scrolling="no"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
