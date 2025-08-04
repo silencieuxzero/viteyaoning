@@ -2,6 +2,7 @@
 import type { Theme } from "vitepress";
 import DefaultTheme from "vitepress/theme";
 import "./style.css";
+import './style/index.css'
 // import "element-plus/dist/index.css";
 import GLayout from "./GLayout.vue";
 

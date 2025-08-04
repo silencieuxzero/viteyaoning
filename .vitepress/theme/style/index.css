@@ -1,0 +1,8 @@
+/* index.css */
+/*@import './var.css';*/
+/*别整这var.css，这玩意疑似和style.css有点冲突（虽然本地预览没报错），如果实在觉得原版的不太好看再启用这个css*/
+@import './blur.css';/*导航栏毛玻璃*/
+@import './marker.css';/*记号笔css*/
+@import './custom-block.css';/*这玩意太几把炫了*/
+@import './blockquote.css';/*也挺好看，就是不知道为什么调不了蓝色*/
+@import './link.css';/*链接图标样式*/
