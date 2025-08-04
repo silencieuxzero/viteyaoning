@@ -4,6 +4,8 @@ import { nextTick, provide } from "vue";
 import { useData } from "vitepress";
 import backtotop from "./components/backtotop.vue";
 import notice from "./components/notice.vue";
+import MouseClick from "./components/MouseClick.vue";
+import MouseFollower from "./components/MouseFollower.vue";
 
 const { isDark } = useData();
 
@@ -51,11 +53,14 @@ provide("toggle-appearance", async ({ clientX: x, clientY: y }: MouseEvent) => {
     </template>
     <template #layout-top>
       <notice />
+      <MouseFollower />
+      <MouseClick />
     </template>
     <template #nav-bar-content-after>
       <a href="https://github.com/silencieuxzero/viteyaoning" style="padding: 0 12px">
       </a>
     </template>
+
   </Layout>
 </template>
 
