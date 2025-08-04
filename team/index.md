@@ -200,5 +200,5 @@ const partners = [
         <img alt="Logo" width="70px" height="70px" src="https://sm.ms/image/g4LrTQwGNzF9ekR" />
     </div>
   </a>
-</div> 别删这段，不然以后不好调用-->
+</div> 别删这段，不然以后不好调用，这段是卡片链接-->
 <!--https://icon-sets.iconify.design/simple-icons/?keyword=sim vitepress默认图标库-->
