@@ -54,7 +54,7 @@ const coreMembers = [
   {
     avatar: '/apt.jpg',
     name: 'APT INSTALL',
-    title: '服务器文档管理',
+    title: '服务器文档管理/内部事件管理',
     links: [
       { icon: 'maildotru', link: 'mailto:rain_187103@outlook.com' }
     ]
@@ -167,7 +167,18 @@ const partners = [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' },
       { icon: 'maildotru', link: 'https://vitepress.dev/zh/' }
     ]
-  },]
+  },
+    {
+    avatar: '/gxdelogo.png',
+    name: 'GXDE OS',
+    title: '网页模板参考',
+    links: [
+      { icon: 'vitepress', link: 'https://www.gxde.top/' },
+      { icon: 'gitee', link: 'https://gitee.com/GXDE-OS' },
+      { icon: 'github', link: 'https://github.com/GXDE-OS' }
+    ]
+  },
+]
 </script>
 
 <VPTeamPage>
