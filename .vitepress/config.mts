@@ -27,6 +27,7 @@ export default defineConfig({
     sidebar: [
       {
         text: "游玩须知",
+        collapsed: false,
         items: [
           { text: "准备工作", link: "/guides/" },
           { text: "注意事项", link: "/guides/" },
@@ -35,6 +36,7 @@ export default defineConfig({
       },
       {
         text: "其他",
+        collapsed: false,
         items: [
           { text: "施工方案", link: "/other/railway" },
           { text: "服务器内设施与建筑", link: "/other/building" },
@@ -44,6 +46,7 @@ export default defineConfig({
       },
       {
         text: "FAQ",
+        collapsed: false,
         items: [
           { text: "FAQ", link: "/faq/" }
 
@@ -51,6 +54,7 @@ export default defineConfig({
       },
       {
         text: "药宁小故事",
+        collapsed: false,
         items: [
           { text: "系列1", link: "/yaoningstory/" },
 
@@ -58,6 +62,7 @@ export default defineConfig({
       },
       {
         text: "管理团队",
+        collapsed: false,
         items: [
           { text: "管理团队", link: "/team/" },
         ],
