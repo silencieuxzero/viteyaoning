@@ -87,6 +87,10 @@ export default defineConfig({
     },
 
     logo: "/yaoning.png",
+
+    search: { 
+      provider: 'local'
+    },
   },
 
   locales: {

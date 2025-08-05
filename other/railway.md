@@ -6,7 +6,7 @@ description: 不经计划的施工只会带来灾难
 ::: info 安全第一，生产第二！
 这里将放置施工方案。
 :::
-## 小镇与铁路网建设计划<Badge type="tip" text="一期" /><Badge type="warning" text="建设中" />
+## 小镇与铁路网建设计划<Badge type="tip" text="一期" /><Badge type="warning" text="基本建设完成" />
 ### 小镇位置选址：
 ![中央平原](/中央平原.jpg "简单示意图")
 图为中央平原<br>

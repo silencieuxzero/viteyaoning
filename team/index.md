@@ -72,7 +72,7 @@ const qq = [
   {
     avatar: '/duyu.jpg',
     name: '杜豫isih',
-    title: '群聊管理员',
+    title: 'UP导师',
     links: [
 
     ]
