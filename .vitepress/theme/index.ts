@@ -5,6 +5,7 @@ import "./style.css";
 import './style/index.css'
 import MouseClick from "./components/MouseClick.vue"
 import MouseFollower from "./components/MouseFollower.vue"
+import Linkcard from "./components/Linkcard.vue"
 import HomeUnderline from "./components/HomeUnderline.vue"
 // import "element-plus/dist/index.css";
 import GLayout from "./GLayout.vue";
@@ -18,6 +19,7 @@ export default {
     app.component('HomeUnderline' , HomeUnderline)
     app.component('MouseClick' , MouseClick)
     app.component('MouseFollower' , MouseFollower)
+    app.component('Linkcard' , Linkcard)
     // ...
   },
 } satisfies Theme;
