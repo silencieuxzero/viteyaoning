@@ -40,6 +40,9 @@ features:
   </el-carousel-item>
 </el-carousel> -->
 
+## 服务器状态
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="500px" height="195px" scrolling=no src="//motdbe.blackbe.work/iframe.html?ip=sxsx.zyeidc.cn&port=32222&dark=false"></iframe>
+
 ## 遇到问题？联系我们！
 ::: info 联系方式
 QQ群：1048595823<br>

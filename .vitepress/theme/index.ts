@@ -12,6 +12,7 @@ import HomeUnderline from "./components/HomeUnderline.vue"
 // import "element-plus/dist/index.css";
 import GLayout from "./GLayout.vue";
 import { inBrowser } from 'vitepress'
+import MinecraftStatus from './components/MinecraftStatus.vue'
 
 export default {
   extends: DefaultTheme,
@@ -23,6 +24,7 @@ export default {
     app.component('MouseClick' , MouseClick)
     app.component('MouseFollower' , MouseFollower)
     app.component('Linkcard' , Linkcard)
+    app.component('MinecraftStatus', MinecraftStatus)
     // ...
 
     if (inBrowser) {
