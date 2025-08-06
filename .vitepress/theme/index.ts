@@ -10,13 +10,29 @@ import 'nprogress-v2/dist/index.css' // 进度条样式
 import Linkcard from "./components/Linkcard.vue"
 import HomeUnderline from "./components/HomeUnderline.vue"
 // import "element-plus/dist/index.css";
-import GLayout from "./GLayout.vue";
+import _GLayout from "./GLayout.vue";
 import { inBrowser } from 'vitepress'
 import MinecraftStatus from './components/MinecraftStatus.vue'
+import MNavLinks from './components/MNavLinks.vue'
+import { h } from 'vue'
+import { useData } from 'vitepress'
 
 export default {
   extends: DefaultTheme,
-  Layout: GLayout,
+// 如果后面接手这个文档的人看到这句话，可以尝试着解决掉这个GLayout
+  Layout: (_GLayout) => {
+    const props: Record<string, any> = {}
+    // 获取 frontmatter
+    const { frontmatter } = useData()
+
+    /* 添加自定义 class */
+    if (frontmatter.value?.layoutClass) {
+      props.class = frontmatter.value.layoutClass
+    }
+
+    return h(DefaultTheme.Layout, props)
+  },
+  
   enhanceApp({ app, router, siteData }) {
     // 注册全局组件
     // 注册全局组件
@@ -25,6 +41,7 @@ export default {
     app.component('MouseFollower' , MouseFollower)
     app.component('Linkcard' , Linkcard)
     app.component('MinecraftStatus', MinecraftStatus)
+    app.component('MNavLinks' , MNavLinks)
     // ...
 
     if (inBrowser) {

@@ -13,11 +13,13 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@mdit-vue/shared": "^2.1.4",
     "prettier": "^3.4.2",
     "unplugin-auto-import": "^19.0.0",
     "unplugin-element-plus": "^0.9.0",
     "unplugin-vue-components": "^28.0.0",
-    "vitepress": "^1.6.3"
+    "vitepress": "^1.6.3",
+    "vue": "^3.5.18"
   },
   "dependencies": {
     "busuanzi.pure.js": "^1.0.3",
