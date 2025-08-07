@@ -18,7 +18,7 @@ export default defineConfig({
       { text: "首页", link: "/" },
       { text: "游玩准备", link: "/guides/", activeMatch: "^/guides/" },
       { text: "管理团队", link: "/team/", activeMatch: "^/team/" },
-      { text: "网址导航", link: "/nav/", activeMatch: "^/nav/" },
+//      { text: "网址导航", link: "/nav/", activeMatch: "^/nav/" },
       {
         text: "UP主的B站空间",
         link: "https://space.bilibili.com/2128068100?spm_id_from=333.337.search-card.all.click",

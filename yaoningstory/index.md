@@ -7,3 +7,4 @@ description: all！
 如有玩家希望将自己的故事加入列表中，请私信文档作者。
 :::
 欢迎各位粉丝进行二创。
+- [药宁的世界：yaoning's world](/yaoningstory/ysw.md)
