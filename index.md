@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "药宁的MC服务器wiki"
+  name: "MC服务器wiki"
   text: "和谐、纯净的生存服务器"
-  tagline: 使用Folia服务端，带给玩家流畅的游戏体验
+  tagline: 使用Leaves服务端，修复了被paper破坏的原版特性
   actions:
     - theme: brand
       text: 游玩准备
@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: 支持药宁
       link: https://space.bilibili.com/2128068100?spm_id_from=333.337.search-card.all.click
+    - theme: alt
+      text: 支持星蓝
+      link: https://space.bilibili.com/1396849646?spm_id_from=333.337.0.0
   image:
     src: /药宁.png
     alt: yaoning
@@ -20,10 +23,10 @@ hero:
 features:
   - title: 流畅游戏
     icon: 💻
-    details: 采用Folia服务端，带给玩家极致流畅的游戏体验。
+    details: 采用Leaves服务端，在不破坏原版特性的情况下保留paper高性能的优点。
   - title: 兼容性强
     icon: 🛠️
-    details: 兼容1.21.x全版本，无需重新配置mod。
+    details: 兼容1.21.4及以上版本，无需重新配置mod。
   - title: 活跃社群
     icon: 🔋
     details: 管理员长期在线，及时响应。
@@ -49,7 +52,7 @@ QQ群：1048595823<br>
 [联系管理团队](https://yaoning-wiki.netlify.app/team/)
 :::
 
-## UP主最新视频
+<!--## UP主最新视频
 <iframe 
 style="width:80%; height=600; aspect-ratio:16/9; margin-top: 2em;" 
 src="//player.bilibili.com/player.html?isOutside=true&aid=114962718526010&bvid=BV1DVhgzGEme&cid=31454072304&p=1&autoplay=0" 
@@ -57,7 +60,7 @@ frameborder="0"
 scrolling="no"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
 allowfullscreen>
-</iframe>
+</iframe>-->
 
 <script setup>
 // import { ElCarousel, ElCarouselItem, ElImage, ElImageViewer } from 'element-plus';

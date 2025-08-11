@@ -11,11 +11,11 @@ import {
 
 const coreMembers = [
   {
-    avatar: '/mingze.jpg',
-    name: '茗泽',
+    avatar: '/wty.jpg',
+    name: 'wty',
     title: '服主',
     links: [
-      { icon: 'maildotru', link: 'mailto:1337679717@qq.com' }
+      { icon: 'maildotru', link: 'mailto:2459902380@qq.com' }
     ]
   },
   {
@@ -28,19 +28,19 @@ const coreMembers = [
     ]
   },
   {
-    avatar: '/canglang.jpg',
-    name: '沧浪',
-    title: '服务器后台配置文件管理',
+    avatar: '/xinglan.jpg',
+    name: '星蓝',
+    title: 'UP主',
     links: [
-      { icon: 'maildotru', link: 'mailto:930941666@qq.com' }
+      { icon: 'bilibili', link: 'https://space.bilibili.com/1396849646?spm_id_from=333.337.0.0' },
     ]
   },
   {
-    avatar: '/muxi.jpg',
-    name: '慕曦',
-    title: '服务器内部事件管理',
+    avatar: '/mingze.jpg',
+    name: '茗泽',
+    title: '服务器配置文件管理',
     links: [
-      { icon: 'maildotru', link: 'mailto:1542539885@qq.com' }
+      { icon: 'maildotru', link: 'mailto:1337679717@qq.com' }
     ]
   },
   {
@@ -49,6 +49,14 @@ const coreMembers = [
     title: '服务器内部事件管理',
     links: [
       { icon: 'maildotru', link: 'mailto:3434792375@qq.com' }
+    ]
+  },
+  {
+    avatar: '/AblazeGod_GZ.jpg',
+    name: 'AblazeGod_GZ',
+    title: '服务器内部事件管理',
+    links: [
+      { icon: 'maildotru', link: 'mailto:3808925388@qq.com' }
     ]
   },
   {
@@ -62,97 +70,9 @@ const coreMembers = [
 ]
 const qq = [
   {
-    avatar: '/荔枝.jpg',
-    name: '荔枝蛋糕',
-    title: '群聊管理员',
-    links: [
-
-    ]
-  },
-  {
-    avatar: '/duyu.jpg',
-    name: '杜豫isih',
-    title: 'UP导师',
-    links: [
-
-    ]
-  },
-  {
-    avatar: '/xiaokai.jpg',
-    name: '小凯不吃牛肉',
-    title: '不吃牛肉',
-    links: [
-
-    ]
-  },
-  {
-    avatar: '/白菜.jpg',
-    name: '白菜する',
-    title: '药政王',
-    links: [
-
-    ]
-  },
-  {
-    avatar: '/尘世.jpg',
-    name: '尘世乱游',
-    title: '试药员',
-    links: [
-
-    ]
-  },
-  {
-    avatar: '/枫.jpg',
-    name: '枫杺デス',
-    title: '群聊管理员',
-    links: [
-
-    ]
-  },
-  {
-    avatar: '/xiangyi.jpg',
-    name: '相依为命',
-    title: '群聊管理员',
-    links: [
-
-    ]
-  },
-  {
-    avatar: '/时鲤.jpg',
-    name: '时理',
-    title: '惨中人',
-    links: [
-
-    ]
-  },
-  {
-    avatar: '/AAA.jpg',
-    name: 'AAA异世界兽耳娘批发商',
-    title: '武神之刃',
-    links: [
-
-    ]
-  },
-  {
-    avatar: '/DD.jpg',
-    name: 'Dd～',
-    title: '药房老板',
-    links: [
-
-    ]
-  },
-  {
-    avatar: '/star.jpg',
-    name: '星河璀璨',
-    title: '星河不可及',
-    links: [
-
-    ]
-  },
-  {
-    avatar: '/zero.jpg',
-    name: '归零之歌',
-    title: '归零砭坊',
+    avatar: '/zhouzhou.jpg',
+    name: '周周',
+    title: '游戏内op',
     links: [
 
     ]
@@ -188,8 +108,8 @@ const partners = [
   </VPTeamPageTitle>
   <VPTeamMembers size="medium" :members="coreMembers" />
     <VPTeamPageSection>
-    <template #title>Q群管理员</template>
-    <template #lead>群抽象大师</template>
+    <template #title>游戏内管理</template>
+    <template #lead>急需完善</template>
     <template #members>
       <VPTeamMembers size="small" :members="qq" />
     </template>

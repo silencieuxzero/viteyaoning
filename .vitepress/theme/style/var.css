@@ -32,6 +32,13 @@
   transform: translateY(-5px);
 }
 
+.VPDoc h1 {
+  background: -webkit-linear-gradient(10deg, #bd34fe 5%, #47caff 40%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 /* 也可自行单独修改brand按钮 */
 /* :root {
   --vp-button-brand-border: #F6CEEC;

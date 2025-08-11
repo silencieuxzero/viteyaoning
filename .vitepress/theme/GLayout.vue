@@ -53,8 +53,8 @@ provide("toggle-appearance", async ({ clientX: x, clientY: y }: MouseEvent) => {
     </template>
     <template #layout-top>
       <notice />
-      <MouseFollower />
-      <MouseClick />
+<!--      <MouseFollower />
+      <MouseClick />-->
     </template>
     <template #nav-bar-content-after>
       <a href="https://github.com/silencieuxzero/viteyaoning" style="padding: 0 12px">

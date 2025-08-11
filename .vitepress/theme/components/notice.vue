@@ -14,14 +14,15 @@ setTimeout(function () { visible.value = false }, 10000);
   <div v-if="visible" class="notice">
     <h3 class="notice-title">网站公告</h3>
     <div class="notice-describe">
-      <p>祝贺药宁粉丝破5万！</p>
+      <p>热烈祝贺服务器合并</p>
       <p class="notice-domain">
-        <strong>
+        QQ群：1053348092
+<!--       <strong>
           点此前往B站：<a href="https://space.bilibili.com/2128068100?spm_id_from=333.337.0.0"
             target="_blank">https://space.bilibili.com/2128068100?spm_id_from=333.337.0.0</a>
-        </strong>
+        </strong>--> 
       </p>
-      <p>QQ群：1048595823</p>
+<!--       <p>QQ群：1053348092</p>-->
       <img class="notice-img" src="/qqcode.jpg">
     </div>
     <div class="notice-footer">

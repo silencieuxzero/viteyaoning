@@ -24,8 +24,8 @@ export default {
     // 注册全局组件
     // 注册全局组件
     app.component('HomeUnderline' , HomeUnderline)
-    app.component('MouseClick' , MouseClick)
-    app.component('MouseFollower' , MouseFollower)
+//    app.component('MouseClick' , MouseClick)
+//    app.component('MouseFollower' , MouseFollower)
     app.component('Linkcard' , Linkcard)
     app.component('MinecraftStatus', MinecraftStatus)
     app.component('MNavLinks' , MNavLinks)
