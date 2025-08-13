@@ -15,7 +15,7 @@ const coreMembers = [
     name: 'wty',
     title: '服主',
     links: [
-      { icon: 'maildotru', link: 'mailto:2459902380@qq.com' }
+      { icon: 'maildotru', link: 'mailto:wty2019wty@qq.com' }
     ]
   },
   {
