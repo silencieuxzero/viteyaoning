@@ -44,7 +44,8 @@ features:
 </el-carousel> -->
 
 ## 服务器状态
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="500px" height="195px" scrolling=no src="//motdbe.blackbe.work/iframe.html?ip=sxsx.zyeidc.cn&port=32222&dark=false"></iframe>
+由于近期服务器遭到攻击，暂时禁用服务器状态查看。
+<!--<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="500px" height="195px" scrolling=no src="//motdbe.blackbe.work/iframe.html?ip=sxsx.zyeidc.cn&port=32222&dark=false"></iframe>-->
 
 ## 遇到问题？联系我们！
 ::: info 联系方式

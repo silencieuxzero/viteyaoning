@@ -36,14 +36,15 @@ export default defineConfig({
         items: [
           { text: "准备工作", link: "/guides/" },
           { text: "注意事项", link: "/guides/" },
-          { text: "服规与群规", link: "/guides/rule" }
+          { text: "服务器命令详解", link: "/guides/help" },
+//          { text: "服规与群规", link: "/guides/rule" }
         ],
       },
       {
         text: "其他",
         collapsed: false,
         items: [
-          { text: "施工方案", link: "/other/railway" },
+//          { text: "施工方案", link: "/other/railway" },
           { text: "服务器内设施与建筑", link: "/other/building" },
 //          { text: "粉丝群bot", link: "/other/bot" }
         ],
